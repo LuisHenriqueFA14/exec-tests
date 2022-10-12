@@ -6,7 +6,7 @@
 #### How to use it
 
 1. Create the `__tests__` directory.
-2. Write expected `in` and `out` files inside the tests directory.
+2. Write expected `in[X]` and `out[X]` files inside the tests directory.
 3. Run the app using the executable: `./exec-tests --exe [EXECUTABLE]`
 
 </br>
